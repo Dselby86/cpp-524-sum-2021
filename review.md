@@ -11,7 +11,7 @@ session:
   date: 'Welcome'
 - week1:
   date:  'THUR May 20'  
-  video: ''
+  video: 'https://youtu.be/kiGhFM0yJxk'
   password: ''
   sample-code: '' 
   session-code: '' 
